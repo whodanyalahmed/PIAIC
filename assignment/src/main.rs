@@ -65,7 +65,7 @@ fn main() {
     
     // Question 9
     println!("Q9: ");
-    let marks = 62;
+    let marks = 42;
     if marks >= 80 {
         println!(" Grade A+");
     }
@@ -80,7 +80,7 @@ fn main() {
         println!(" Grade C");
     }
     
-    else if marks >= 70 {
+    else if marks >= 40 {
         println!(" Grade D");
     }
     else{
