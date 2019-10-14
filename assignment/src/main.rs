@@ -10,11 +10,12 @@ fn main() {
     println!(" Length of PAKISTAN ZINDABAD is {}",x.len() );
 
 
-    let y:u64 = 85;
-    let z:i16 = -550;
+    
 
 
     // Question 2
+    let y:u64 = 85;
+    let z:i16 = -550;
     println!("Q2:\n {} \n{}",y,z ); 
 
 
