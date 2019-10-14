@@ -6,7 +6,7 @@ edition = "2018"
 license = "MIT"
 description = "This is just a discription"
 readme = "readme.md"
-documentation = "This just a documentation"
+documentation = "This just a description"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
