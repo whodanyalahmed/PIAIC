@@ -15,6 +15,8 @@ edition = "2018"
 name = "sumlib"
 version = "0.1.0"
 authors = ["Daniyal Ahmed <daniahmedkhatri@gmail.com>"]
+description = "This is just a discription"
+readme = "readme.md"
 license = "MIT"
 
 [dependencies]
